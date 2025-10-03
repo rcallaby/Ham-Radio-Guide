@@ -22,14 +22,53 @@ When you want to contact another amateur station, follow a standard, short forma
 
 Radio conditions aren’t always clear. To spell out words, names, or call signs, amateurs use the **ITU phonetic alphabet** (standardized worldwide).
 
-### Standard phonetics (examples):
+### Standard Phonetic Alphabet for Ham Radio (Letters)
 
-* A = Alfa
-* B = Bravo
-* C = Charlie
-* D = Delta
-* E = Echo
-* KJ7ABC = “Kilo Juliet Seven Alfa Bravo Charlie”
+| Letter | Phonetic Word | Pronunciation |
+|--------|---------------|---------------|
+| A      | Alpha         | al-fah        |
+| B      | Bravo         | brah-voh      |
+| C      | Charlie       | char-lee      |
+| D      | Delta         | dell-tah      |
+| E      | Echo          | eck-oh        |
+| F      | Foxtrot       | foks-trot     |
+| G      | Golf          | golf          |
+| H      | Hotel         | hoh-tel       |
+| I      | India         | in-dee-ah     |
+| J      | Juliett       | jew-lee-ett   |
+| K      | Kilo          | key-loh       |
+| L      | Lima          | lee-mah       |
+| M      | Mike          | mike          |
+| N      | November      | no-vem-ber    |
+| O      | Oscar         | oss-cah       |
+| P      | Papa          | pah-pah       |
+| Q      | Quebec        | keh-beck      |
+| R      | Romeo         | row-me-oh     |
+| S      | Sierra        | see-air-rah   |
+| T      | Tango         | tang-go       |
+| U      | Uniform       | you-nee-form  |
+| V      | Victor        | vic-tah       |
+| W      | Whiskey       | wiss-key      |
+| X      | Xray          | ecks-ray      |
+| Y      | Yankee        | yang-key      |
+| Z      | Zulu          | zoo-loo       |
+
+### Standard Phonetic Pronunciations for Numerals in Ham Radio
+
+| Digit | Phonetic Word | Pronunciation |
+|-------|---------------|---------------|
+| 0     | Zero          | zee-ro        |
+| 1     | One           | wun           |
+| 2     | Two           | too           |
+| 3     | Three         | tree          |
+| 4     | Four          | fow-er        |
+| 5     | Five          | fife          |
+| 6     | Six           | six           |
+| 7     | Seven         | sev-en        |
+| 8     | Eight         | ait           |
+| 9     | Nine          | nin-er        |
+
+This is the NATO/ITU phonetic system, which is the standard encouraged by the FCC for clarity in amateur radio communications.
 
 **Always use standard phonetics.** Don’t invent your own. It avoids confusion and is the format used worldwide.
 
