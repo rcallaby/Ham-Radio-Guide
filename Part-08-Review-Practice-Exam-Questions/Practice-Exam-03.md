@@ -1,7 +1,5 @@
 # Hard Technician Practice Exam #3
 
-**(Official-Style / Technician Element 2 Feel — Original Questions)**
-
 **Instructions:** Choose the **single best answer**.
 
 ---
